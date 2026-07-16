@@ -1,0 +1,7 @@
+name = "photo-marketplace-listing-assistant"
+compatibility_date = "2026-07-16"
+pages_build_output_dir = "dist"
+
+[[r2_buckets]]
+binding = "LISTING_IMAGES"
+bucket_name = "photo-marketplace-listing-images"
