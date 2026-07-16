@@ -1,0 +1,2 @@
+# photo-marketplace-listing-assistant
+写真からAI出品原稿を生成し、メルカリShops公式API出品・個人向けメルカリ/Yahoo!オークション用ドラフト出力を行うPWAとMCPサーバー
